@@ -440,6 +440,38 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Sandoval",
+      "email": "jessi.sandoval93@gmail.com",
+      "jobTitle": "Front End Developer",
+      "twitter": "jessic4Sandoval",
+      "id": "2vBXDpx"
+    },
+    {
+      "firstName": "Corolynn",
+      "lastName": "Kaufman",
+      "email": "carolynn@example.com",
+      "jobTitle": "Lawyer",
+      "twitter": "sparragus",
+      "id": "vhRm3W1"
+    },
+    {
+      "firstName": "Snoopei",
+      "lastName": "Kaufman",
+      "email": "snoopy@example.com",
+      "jobTitle": "SuperDog",
+      "twitter": "SuperDog",
+      "id": "oRHAIs7"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Rivera",
+      "email": "krivera@example.com",
+      "jobTitle": "Software Developer",
+      "twitter": "KevinSandoval",
+      "id": "BlSDvWO"
     }
   ]
 }
