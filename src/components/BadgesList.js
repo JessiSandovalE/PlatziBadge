@@ -30,7 +30,7 @@ class BadgesListItem extends React.Component {
 function useSearchBadges(badges){
   const [query,setQuery] = useState('')
   const[filteredBadges, setFilteredBadges] = useState(badges)
-  useMemo(()=>{ 
+  useMemo(()=>{
     const result = badges.filter(badge => {
       return `${badge.firstName} ${badge.lastName}`
       .toLowerCase()
